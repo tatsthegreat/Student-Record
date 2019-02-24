@@ -109,8 +109,7 @@ public class JTableRow {
                 if(Name.equals(""))
                 { 
                     JOptionPane.showMessageDialog (null, "Name field is Empty");
-                } 
-                else if(Email.equals(""))
+                } else if(Email.equals(""))
                 {
                     JOptionPane.showMessageDialog (null, "Email field is Empty");
                 } else if(Birthday.equals(""))
